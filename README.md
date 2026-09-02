@@ -1,0 +1,2 @@
+# privacy
+LoanBox Privacy
